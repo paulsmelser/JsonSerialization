@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{99A50D
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert", "Convert\Convert.csproj", "{CAAEF6D4-34A3-4B7E-9AC6-DB6DDF2D4C49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{E829CBC1-5CDE-43D2-A436-8FAF8534035E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E829CBC1-5CDE-43D2-A436-8FAF8534035E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E829CBC1-5CDE-43D2-A436-8FAF8534035E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAAEF6D4-34A3-4B7E-9AC6-DB6DDF2D4C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAEF6D4-34A3-4B7E-9AC6-DB6DDF2D4C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAEF6D4-34A3-4B7E-9AC6-DB6DDF2D4C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAEF6D4-34A3-4B7E-9AC6-DB6DDF2D4C49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

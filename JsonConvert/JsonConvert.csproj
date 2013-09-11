@@ -47,7 +47,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Converter.cs" />
-    <Compile Include="Converter2.cs" />
+    <Compile Include="InteractionJsonConvert.cs" />
+    <Compile Include="JsonContracts.cs" />
+    <Compile Include="JsonConverterContracts.cs" />
+    <Compile Include="JsonPropertyContract.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

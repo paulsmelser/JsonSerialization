@@ -1,0 +1,1 @@
+﻿var obj = JSON.parse('{"$type":""}');
